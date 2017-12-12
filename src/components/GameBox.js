@@ -8,7 +8,7 @@ export default function GameBox(props) {
     console.log(props);
     return (
         <div>
-            <div>
+            <div className="header">
                 <h1>HOT or COLD</h1>
             </div>
             <div className="game-box">

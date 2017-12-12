@@ -5,7 +5,8 @@ export default function NewGame(){
     const newGame = '+New Game'
     return (
         <div>
-        <h3>{newGame}</h3>
+        <h3 className="new-game">{newGame}</h3>
         </div>
     );
 };
+

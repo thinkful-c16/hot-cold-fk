@@ -5,7 +5,9 @@ export default function Tracker() {
     const z = '2';
     return (
         <div>
-            <p><span className="tracker-results">{z}</span></p>
+            <ul>
+              <li className="tracker-results">{z}</li>
+            </ul>
         </div>
     )
 }

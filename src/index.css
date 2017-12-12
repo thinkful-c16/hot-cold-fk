@@ -14,14 +14,19 @@ body {
 
 h1, h3, h4 {
   color: #FFFFE6;
-}
+  }
 
 
 h1 {
   position: relative;  
   margin: 0 auto;  
-  width: 380px;
   text-align: center;
   padding-bottom: 25px;
+  padding-top: 105px;
+  font-weight: 800;
+  font-size: 2.75em;
 
 }
+
+
+

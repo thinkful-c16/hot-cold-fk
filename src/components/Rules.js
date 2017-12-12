@@ -4,7 +4,8 @@ import './rules.css';
 export default function Rules(){
     return (
         <div>
-        <h3>WHAT?</h3>
+            <h3 className="rules">WHAT?</h3>
         </div>
     );
 };
+
