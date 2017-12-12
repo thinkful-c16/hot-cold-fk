@@ -1,0 +1,19 @@
+.game-box {
+  position: relative;  
+  margin: 0 auto;  
+  width: 380px;
+  height: 380px;
+  border-radius: 4px;
+  border: solid 1 px black;
+  background-color: #394264;
+  
+}
+.hclogic{
+  width: 380px;
+  height: 72px;
+  text-align: center;
+  padding: 12px px;
+  
+}
+
+

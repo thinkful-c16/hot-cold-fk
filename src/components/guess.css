@@ -1,0 +1,52 @@
+input {
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 285px;
+    height: 50px;
+    background-color: #50597B;
+    color: #908F8B;
+    font-size: 2em;
+    padding: 0.2em;
+    margin: 25px 40px 1px 40px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+
+.button {
+    display: block;
+    margin: auto;
+    width: 285px;
+    height: 50px;
+    color: #95A5A6;
+    background-color: #1F253D;
+    font-size: 2em;
+    padding: 0.2em;
+    border-radius: 4px;
+    margin: 25px 40px 1px 40px;
+    border: solid 2px#1F253D;
+}
+
+form {
+    width: 380px;
+    height: 126px;
+    vertical-align: baseline;
+    background-color: #394264;
+   }
+
+ .guess-number {
+    margin: 10px auto;
+    text-align: center;
+    width: 380px;
+    height: 43px;
+    padding-bottom: 14px;
+    font-size: 1.8em;
+    padding-bottom: 2em;
+
+   }
+   .count {
+    color: #f39c12;
+    font-weight: 700;
+    font-size: 1.5em;
+   }
+   

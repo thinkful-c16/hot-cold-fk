@@ -1,8 +1,10 @@
+//import registerServiceWorker from './registerServiceWorker';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+import LayOut from './components/LayOut';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+
+//purpose of index.js is to primarily render the DOM
+ ReactDOM.render(<LayOut />, document.getElementById('root')); 
+ 
